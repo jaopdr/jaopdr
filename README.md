@@ -6,7 +6,7 @@
 
 
 <div align="center">  <!--GIT STATUS-->
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaopdr&show_icons=true&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=50C878&bg_color=0d1117" alt="Henrique ataide github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jaopdr&show_icons=true&count_private=true&hide_border=true&title_color=50C878&icon_color=50C878&text_color=50C878&bg_color=0d1117" alt="João Sezerino github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaopdr&layout=compact&hide_border=true&title_color=50C878&text_color=50C878&bg_color=0d1117" />
 </div>
 
