@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffdbac&height=120&section=header"/> <!--HEADER-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e0ac69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+João+Sezerino.;Tenho+17+anos+e+moro+em+Santa+Catarina.;Sou+estudante+de+Desenvolvimento+de+Sistemas.;Seja+Muito+Bem-vindo!)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e0ac69&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+João+Sezerino.;Tenho+18+anos.;Sou+estudante+da+Ciência+da+Computação+na+UDESC.;Seja+Muito+Bem-vindo!)](https://git.io/typing-svg) 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jaopdr&bg_color=0d1117&color=ffdbac&line=ffdbac&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -12,8 +12,8 @@
 
 
 <div align="center">  <!--REDES SOCIAIS-->
-<a href="https://instagram.com/joaosz_pedro" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="mailto:joaosezerino.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://instagram.com/joaosezerino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="mailto:joaosezerino@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/joão-pedro-069064225/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
  
